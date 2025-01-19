@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-24)
+## Unreleased (2025-01-19)
+
+<section class="features">
+
+### Features
+
+-   [`02c1a61`](https://github.com/stdlib-js/stdlib/commit/02c1a6107cd10392a3893ae76b6d8e81414e3067) - add C implementation for `stats/base/dists/gumbel/kurtosis`   [(#4155)](https://github.com/stdlib-js/stdlib/pull/4155)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3645](https://github.com/stdlib-js/stdlib/issues/3645)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`02c1a61`](https://github.com/stdlib-js/stdlib/commit/02c1a6107cd10392a3893ae76b6d8e81414e3067) - **feat:** add C implementation for `stats/base/dists/gumbel/kurtosis`   [(#4155)](https://github.com/stdlib-js/stdlib/pull/4155) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Vivek Maurya
 
 </section>
 
