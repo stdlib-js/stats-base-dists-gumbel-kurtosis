@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-08)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`105b812`](https://github.com/stdlib-js/stdlib/commit/105b8121cd65f5bb520351b48c945996e1dfb6aa) - **bench:** refactor random number generation in `stats/base/dists/gumbel` [(#4933)](https://github.com/stdlib-js/stdlib/pull/4933) _(by Karan Anand, stdlib-bot)_
 -   [`b7c97a5`](https://github.com/stdlib-js/stdlib/commit/b7c97a5e905c8bf73de1da4d55b9f3571f987927) - **refactor:** precompute constant _(by Philipp Burckhardt)_
 -   [`02c1a61`](https://github.com/stdlib-js/stdlib/commit/02c1a6107cd10392a3893ae76b6d8e81414e3067) - **feat:** add C implementation for `stats/base/dists/gumbel/kurtosis`   [(#4155)](https://github.com/stdlib-js/stdlib/pull/4155) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
