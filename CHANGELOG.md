@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-03)
+## Unreleased (2025-04-14)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`105b812`](https://github.com/stdlib-js/stdlib/commit/105b8121cd65f5bb520351b48c945996e1dfb6aa) - **bench:** refactor random number generation in `stats/base/dists/gumbel` [(#4933)](https://github.com/stdlib-js/stdlib/pull/4933) _(by Karan Anand, stdlib-bot)_
 -   [`b7c97a5`](https://github.com/stdlib-js/stdlib/commit/b7c97a5e905c8bf73de1da4d55b9f3571f987927) - **refactor:** precompute constant _(by Philipp Burckhardt)_
